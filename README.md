@@ -11,6 +11,15 @@ No modo singleplayer o computador sorteia as palavras em um banco de dados para 
 
 Para instalação do ForcaGame siga os seguintes passos:
 
+Faça o clone do projeto ou baixe-o e execute os seguintes comandos no terminal para executar o jogo:
+
+```
+
+cmake .
+
+make
+
+./forcagame
 
 
-...
+```
