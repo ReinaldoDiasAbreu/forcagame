@@ -1,0 +1,3 @@
+/home/reinaldo/Documentos/PROJETOS/forcagame/CMakeFiles/rebuild_cache.dir
+/home/reinaldo/Documentos/PROJETOS/forcagame/CMakeFiles/forcagame.dir
+/home/reinaldo/Documentos/PROJETOS/forcagame/CMakeFiles/edit_cache.dir

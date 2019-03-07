@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/reinaldo/Documentos/PROJETOS/forcagame/game.cpp
+iostream
+-
+
+/home/reinaldo/Documentos/PROJETOS/forcagame/game.h
+
+/home/reinaldo/Documentos/PROJETOS/forcagame/main.cpp
+game.h
+/home/reinaldo/Documentos/PROJETOS/forcagame/game.h
+
