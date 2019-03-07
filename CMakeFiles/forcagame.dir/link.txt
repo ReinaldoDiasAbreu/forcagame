@@ -1,1 +1,0 @@
-/usr/bin/c++    -rdynamic CMakeFiles/forcagame.dir/game.o CMakeFiles/forcagame.dir/main.o  -o forcagame 
